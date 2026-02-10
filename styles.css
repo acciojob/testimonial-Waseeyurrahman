@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+body {
+            margin: 0;
+            background-color: #f5f5f5;
+            font-family: Georgia, serif;
+        }
+
+        /* Main Container */
+        .container {
+            padding: 40px;
+            background-color: #f5f5f5;
+        }
+
+        h1 {
+            font-size: 40px;
+        }
+
+        /* Individual Testimonial Box */
+        .testimonial {
+            padding: 25px;
+            border: 1px solid #ccc;
+            background-color: #ffffff;
+            margin-bottom: 25px;
+        }
+
+        /* Testimonial Text */
+        .testimonial p {
+            margin: 0 0 10px 0;
+        }
+
+        /* Author Styling */
+        .author {
+            text-align: right;
+            font-style: italic;
+        }
